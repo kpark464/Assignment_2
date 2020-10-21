@@ -7,7 +7,7 @@ The team later compares the similarity between these two texts with Wikipedia pa
 
 # Prerequisites
 To run the program, make sure:
-* You have installed matplotlib, numpy, pandas, pillow, and wordcloud packags to generate wordcloud
+* You have installed scikit learn, matplotlib, numpy, pandas, pillow, and wordcloud packags to execute code.
 * The Freud text is found here: http://www.gutenberg.org/ebooks/15489.txt.utf-8
 * The Jung text is found here: http://www.gutenberg.org/files/48225/48225-0.txt
 * Files are adjusted to be located under your CPU
