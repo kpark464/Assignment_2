@@ -1,2 +1,13 @@
-# Assignment_2
-Python Assignment 2
+# Assignment 2
+By: Kimberly Park and Jasmine Gong
+
+## Description
+
+## Visuals
+
+## Installation
+
+## Usage
+
+
+
